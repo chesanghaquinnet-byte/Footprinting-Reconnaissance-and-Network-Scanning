@@ -27,9 +27,9 @@ The main objectives of this practical were to:
 * Generate and save a network topology.
 
 
-Part 1 — Footprinting and Reconnaissance
+## Part 1 — Footprinting and Reconnaissance
 
-What is Footprinting and Reconnaissance?
+**What is Footprinting and Reconnaissance**?
 
 Footprinting and reconnaissance are information-gathering activities carried out during the early stages of a cybersecurity assessment.
 
