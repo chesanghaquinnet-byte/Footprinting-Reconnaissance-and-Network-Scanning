@@ -49,9 +49,5 @@ Command used:
  ```bash
 whois networkwalks.com
  
-Footprinting-Reconnaissance-and-Network-Scanning/
-│
-├── README.md
-└── screenshots/
-    └── whois.png
+
 
