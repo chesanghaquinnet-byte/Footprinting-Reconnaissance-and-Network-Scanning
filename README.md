@@ -5,7 +5,7 @@ A hands-on cybersecurity lab documenting footprinting, reconnaissance, informati
 
 This repository documents my hands-on cybersecurity practical on footprinting, reconnaissance, information gathering, and network scanning.
 
-The practical started with gathering information about a target using different reconnaissance tools in Kali Linux. I then moved to network scanning using Zenmap/Nmap to identify live hosts on my local subnet and collect information such as IP addresses and MAC addresses.
+The practical started with gathering information about a Networkwalks.com using different reconnaissance tools in Kali Linux. I then moved to network scanning using Zenmap/Nmap to identify live hosts on my local subnet and collect information such as IP addresses and MAC addresses.
 
 This project helped me understand how reconnaissance and scanning are used during the early stages of a cybersecurity assessment.
 
@@ -36,3 +36,12 @@ Footprinting and reconnaissance are information-gathering activities carried out
 The purpose is to collect useful information about a target before moving to other security testing activities.
 
 During this practical, I used several tools to gather different types of information.
+
+
+**Tools Used**
+
+## 1. WHOIS
+
+WHOIS was used to retrieve publicly available registration information associated with a domain.
+
+I ran the WHOIS command from my Kali Linux terminal and saved the output for documentation and later use in my report.
