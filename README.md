@@ -82,6 +82,20 @@ whatweb networkwalks.com
 ###Whatweb Result
 ![Whatweb Result](2-whatweb-networkwalks.png)
 
+## 3. NSLookup
+
+NSLookup was used to gather DNS information about the networkwalks.com domain.
+
+command used:
+```bash
+nslookup networkwalks.com
+```
+
+**What I found**
+The command returned DNS information for networkwalks.com, including the domain’s IP address and the DNS server that provided the response.
+
+This information is useful during reconnaissance because it helps identify the IP address associated with a domain and understand how the domain is resolved on the internet.
+
 
 
 
