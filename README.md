@@ -49,5 +49,11 @@ Command used:
  ```bash
 whois networkwalks.com
  
+**Evidence**
+
+### WHOIS Result
+
+![WHOIS Results](1-whois networkwalks.com.jpeg)
+
 
 
