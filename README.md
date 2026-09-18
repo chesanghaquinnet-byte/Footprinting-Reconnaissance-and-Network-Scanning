@@ -97,6 +97,7 @@ The command returned DNS information for networkwalks.com, including the domainâ
 This information is useful during reconnaissance because it helps identify the IP address associated with a domain and understand how the domain is resolved on the internet.
 
 **Evidence**
+
 ###Nslookup Result
 ![Nslookup Result](3-nslookup-networkwalks.png)
 
