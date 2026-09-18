@@ -115,7 +115,7 @@ This information is useful during reconnaissance because HTTP headers can reveal
 
 **Evidence**
 ### Curl Result
-![Curl Result](4-curl-i-networkwalks.png)
+![Curl Result](4-curl-I-networkwalks.png)
 
 
 
