@@ -120,6 +120,21 @@ This information is useful during reconnaissance because HTTP headers can reveal
 ![Curl Result](4-curl-I-networkwalks.png)
 
 
+## 5. WAFW00F
+
+WAFW00F was used to check whether a Web Application Firewall (WAF) was protecting the networkwalks.com website.
+
+command used:
+```bash
+wafw00f networkwalks.com
+```
+
+**What I Found**
+
+The WAFW00F scan checked networkwalks.com for the presence of a Web Application Firewall. The result showed whether a WAF was detected and, if identified, the type of WAF protecting the website.
+
+This information is useful during reconnaissance because it helps identify security technologies that may be deployed in front of a web application.
+
 
 
 
