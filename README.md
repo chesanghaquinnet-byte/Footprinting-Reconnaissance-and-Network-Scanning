@@ -45,3 +45,5 @@ During this practical, I used several tools to gather different types of informa
 WHOIS was used to retrieve publicly available registration information associated with a domain.
 
 I ran the WHOIS command from my Kali Linux terminal and saved the output for documentation and later use in my report.
+Command used:
+whois <networkwalks.com> 
