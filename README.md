@@ -48,6 +48,23 @@ I ran the WHOIS command from my Kali Linux terminal and saved the output for doc
 Command used:
  ```bash
 whois networkwalks.com
+```
+
+**What I found**
+From the WHOIS results, I was able to gather information such as:
+
+* Domain name
+* Domain registration and expiry dates
+* Registrar information
+* Domain status
+* Name servers
+* Other publicly available registration details.
+
+
+
+
+
+
 
 
 
