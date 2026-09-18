@@ -8,3 +8,20 @@ This repository documents my hands-on cybersecurity practical on footprinting, r
 The practical started with gathering information about a target using different reconnaissance tools in Kali Linux. I then moved to network scanning using Zenmap/Nmap to identify live hosts on my local subnet and collect information such as IP addresses and MAC addresses.
 
 This project helped me understand how reconnaissance and scanning are used during the early stages of a cybersecurity assessment.
+
+
+**Objectives**
+
+The main objectives of this practical were to:
+
+* Understand the concept of footprinting and reconnaissance.
+* Gather information about a target using different reconnaissance tools.
+* Understand how WHOIS information can be collected.
+* Identify technologies and information associated with a website.
+* Examine DNS information.
+* Check HTTP response headers.
+* Identify possible web application firewalls.
+* Perform network discovery using Zenmap.
+* Identify live hosts on a local subnet.
+* Identify the IP addresses and MAC addresses of live hosts.
+* Generate and save a network topology.
