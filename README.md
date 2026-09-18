@@ -25,3 +25,14 @@ The main objectives of this practical were to:
 * Identify live hosts on a local subnet.
 * Identify the IP addresses and MAC addresses of live hosts.
 * Generate and save a network topology.
+
+
+Part 1 — Footprinting and Reconnaissance
+
+What is Footprinting and Reconnaissance?
+
+Footprinting and reconnaissance are information-gathering activities carried out during the early stages of a cybersecurity assessment.
+
+The purpose is to collect useful information about a target before moving to other security testing activities.
+
+During this practical, I used several tools to gather different types of information.
