@@ -60,6 +60,11 @@ From the WHOIS results, I was able to gather information such as:
 * Name servers
 * Other publicly available registration details.
 
+**Evidence**  
+
+###WHOIS Result
+![WHOIS Result](1-whois-networkwalks.png)
+
 
 
 
