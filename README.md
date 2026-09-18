@@ -100,7 +100,22 @@ This information is useful during reconnaissance because it helps identify the I
 ###Nslookup Result
 ![Nslookup Result](3-nslookup-networkwalks.png)
 
+## 4. cURL
 
+cURL was used to inspect the HTTP response headers returned by the networkwalks.com website.
+command used:
+```bash
+curl -I https://networkwalks.com
+```
+**What I Found**
+
+The command returned the HTTP response headers from the website. The response showed the HTTP status code and other information about how the web server responded to the request.
+
+This information is useful during reconnaissance because HTTP headers can reveal details about the website’s server, security configurations, content type, and how the website handles web requests.
+
+**Evidence**
+### Curl Result
+![Curl Result](4-curl-i-networkwalks.png)
 
 
 
