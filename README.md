@@ -65,7 +65,7 @@ From the WHOIS results, I was able to gather information such as:
 ###WHOIS Result
 ![WHOIS Result](1-whois-networkwalks.png)
 
-
+2-
 
 
 
