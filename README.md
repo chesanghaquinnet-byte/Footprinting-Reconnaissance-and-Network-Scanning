@@ -51,9 +51,10 @@ whois networkwalks.com
  
 **Evidence**
 
-### WHOIS Result
 
-![WHOIS Results](1-whois networkwalks.com.jpeg)
+### WHOIS Result
+![WHOIS Result](1-whois-networkwalks.com.jpeg)
+
 
 
 
