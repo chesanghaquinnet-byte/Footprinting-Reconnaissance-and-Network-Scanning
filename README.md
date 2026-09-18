@@ -65,7 +65,19 @@ From the WHOIS results, I was able to gather information such as:
 ###WHOIS Result
 ![WHOIS Result](1-whois-networkwalks.png)
 
-2-
+## 2. WhatWeb
+
+WhatWeb was used to gather information about the technologies used by networkwalks.com.
+
+It can help identify technologies such as web servers, frameworks, content management systems, JavaScript libraries and other technologies associated with a website.
+
+command used:
+### WhatWeb
+
+```bash
+whatweb networkwalks.com
+```
+
 
 
 
