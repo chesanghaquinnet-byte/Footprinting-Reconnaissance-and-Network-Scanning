@@ -46,6 +46,8 @@ WHOIS was used to retrieve publicly available registration information associate
 
 I ran the WHOIS command from my Kali Linux terminal and saved the output for documentation and later use in my report.
 Command used:
- whois <target-domain>
+ ```bash
+whois networkwalks.com
+ 
 
 
