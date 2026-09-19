@@ -199,4 +199,9 @@ Default Gateway  172.20.10.1
 
 Network/Subnet   172.20.10.0/28
 
+The subnet mask 255.255.255.240 corresponds to /28.
 
+## Evidence
+
+###Ipconfig Result
+![Ipconfig Result](8-windowscmd-networkwalks.png)
