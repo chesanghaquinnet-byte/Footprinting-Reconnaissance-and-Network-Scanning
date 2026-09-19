@@ -245,7 +245,7 @@ The topology output was saved in PDF format as required by the practical.
 ## Topology Evidence
 
 ### Zenmap Topology Result
-![Zenmap Topology Result](nmap-zenmap-topology.pdf)
+![Zenmap Topology Result](nmap-zenmap.pdf)
 
 
 
