@@ -305,3 +305,23 @@ The practical helped me connect the concepts I have been learning in cybersecuri
 This is another step in my journey from learning cybersecurity concepts to gaining practical, hands-on experience.
 
 
+
+
+
+
+# 👤 Author
+
+**Chesangha Quinneta**
+
+**Networkwalks 2026 Intern**
+
+
+LinkedIn:[https://www.linkedin.com/in/cyber~-nneta-77a37b3ab?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+---
+
+##  Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 02 | **Project:** Cybersecurity & Pentesting Footprinting&scanning | **Repository:** GitHub
+
+
