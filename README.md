@@ -140,6 +140,27 @@ This information is useful during reconnaissance because it helps identify secur
 ### WafW00f Result
 ![Wafw00f Result](5-wafw00f-networkwalks.png)
 
+## 6. DNSRecon
+
+DNSRecon is a DNS enumeration tool used to gather information about DNS records and configurations.
+
+What I did
+
+I used DNSRecon with the -d option to enumerate DNS information for the target domain.
+command used:
+```bash
+dnsrecon -d networkwalks.com
+```
+
+## What I found
+I used DNSRecon to enumerate the DNS information available for networkwalks.com. The tool returned DNS records and information associated with the domain, including the DNS infrastructure and records identified during the enumeration.
+
+The results were saved and documented as part of my reconnaissance process for further analysis and reporting.
+
+## Evidence
+
+### Dnsrecon Result
+![Dnsrecon Result](6-dnsrecon-networkwalks.png)
 
 
 
