@@ -236,6 +236,20 @@ The total number of live hosts discovered during the Zenmap scan was 3.
 ![Zenmap Result](8-zenmap-networkwalks.png)
 
 
+## Real-World Implications
+
+## Finding:
+The Nmap scan identified three active hosts on the network. Their IP addresses and MAC addresses were also discovered.
+
+## Implication:
+Identifying active hosts gives a security professional a better understanding of the devices present on the network. The IP addresses can help identify and communicate with specific devices, while MAC addresses can provide additional information for identifying devices on the local network.
+
+## Potential Impact:
+If this information is exposed to an unauthorized person, it could help them map the network and identify potential targets for further reconnaissance. This could increase the organization’s attack surface and make it easier to plan future attacks.
+
+## Recommended Next Steps:
+The identified hosts should be reviewed to confirm that they are authorized devices. Network administrators can also monitor the network for unknown devices, apply appropriate access controls, and limit unnecessary exposure of network information.
+
 ## Network Topology
 
 After completing the scan, I used Zenmap’s topology feature to visualize the discovered hosts and their relationship within the network.
