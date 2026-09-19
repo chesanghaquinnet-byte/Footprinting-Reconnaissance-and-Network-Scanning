@@ -1,7 +1,7 @@
 # Footprinting-Reconnaissance-and-Network-Scanning
 A hands-on cybersecurity lab documenting footprinting, reconnaissance, information gathering, and local network scanning using Kali Linux, Nmap/Zenmap, and other reconnaissance tools week2 project with Networkwalks
 
-**Overview**
+##Overview
 
 This repository documents my hands-on cybersecurity practical on footprinting, reconnaissance, information gathering, and network scanning.
 
@@ -10,7 +10,7 @@ The practical started with gathering information about a Networkwalks.com using 
 This project helped me understand how reconnaissance and scanning are used during the early stages of a cybersecurity assessment.
 
 
-**Objectives**
+##Objectives
 
 The main objectives of this practical were to:
 
