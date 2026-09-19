@@ -135,7 +135,10 @@ The WAFW00F scan checked networkwalks.com for the presence of a Web Application 
 
 This information is useful during reconnaissance because it helps identify security technologies that may be deployed in front of a web application.
 
+## Evidence
 
+### WafW00f Result
+![Wafw00f Result](5-wafw00f-networkwalks.png)
 
 
 
