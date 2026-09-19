@@ -203,5 +203,6 @@ The subnet mask 255.255.255.240 corresponds to /28.
 
 ## Evidence
 
-###Ipconfig Result
+### Ipconfig Result
+
 ![Ipconfig Result](8-windowscmd-networkwalks.png)
