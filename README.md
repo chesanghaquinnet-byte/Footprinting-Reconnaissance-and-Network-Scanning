@@ -205,7 +205,7 @@ The subnet mask 255.255.255.240 corresponds to /28.
 
 ### Ipconfig Result
 
-![Ipconfig Result](8-windowscmd-networkwalks.png)
+![Ipconfig Result](7-windowscmd-networkwalks.png)
 
 ## 2. Configuring the Zenmap Scan
 
