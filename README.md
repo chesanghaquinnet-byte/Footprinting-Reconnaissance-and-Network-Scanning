@@ -248,6 +248,60 @@ The topology output was saved in PDF format as required by the practical.
 ![Zenmap Topology Result](nmap-zenmap.pdf)
 
 
+ ## Summary of the Practical
 
+During this practical, I worked through two major stages:
+
+Stage 1 — Footprinting & Reconnaissance
+
+I used:
+
+* WHOIS
+* WhatWeb
+* NSLookup
+* cURL
+* WAFW00F
+* DNSRecon
+
+These tools helped me understand different methods of gathering information about a target from publicly accessible services and responses.
+
+## Stage 2 — Network Scanning
+
+I used:
+
+* Windows ipconfig
+* Zenmap
+* Nmap
+
+I first identified my local network information and then scanned my local subnet. The scan allowed me to identify live hosts and obtain information such as their IP and MAC addresses.
+
+
+## What I Learned
+
+This practical helped me understand that reconnaissance is an important part of cybersecurity because information about a target can be collected from several different sources.
+
+I also learned that different tools provide different types of information. WHOIS focuses on domain registration information, WhatWeb performs web technology fingerprinting, NSLookup works with DNS queries, cURL allows me to inspect HTTP responses, WAFW00F can identify possible WAFs, and DNSRecon performs DNS enumeration.
+
+The Zenmap practical also helped me understand how network scanning can be used to discover active devices within a network and how IP addresses, MAC addresses, and network topology can be documented.
+
+Most importantly, I gained practical experience using tools that I had previously only learned about theoretically.
+
+## Ethical Consideration
+
+The techniques and tools used in this practical should only be used on systems and networks where I have permission to perform testing.
+
+Reconnaissance and scanning can provide sensitive information about systems and networks, so responsible and authorized use is essential.
+
+
+
+## Conclusion
+
+This practical gave me hands-on experience with cybersecurity reconnaissance and network scanning.
+
+I started by gathering information using several footprinting and reconnaissance tools and then moved into network discovery using Zenmap.
+
+The practical helped me connect the concepts I have been learning in cybersecurity with real command-line and graphical tools.
+
+This is another step in my journey from learning cybersecurity concepts to gaining practical, hands-on experience.
 
 
