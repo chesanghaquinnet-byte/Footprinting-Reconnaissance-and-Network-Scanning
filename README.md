@@ -233,7 +233,7 @@ The total number of live hosts discovered during the Zenmap scan was 3.
 ## Evidence
 
 ### Zenmap Result
-![Zenmap Result](8-Zenmapscanning-networkwalks.png)
+![Zenmap Result](8-zenmap-networkwalks.png)
 
 
 
