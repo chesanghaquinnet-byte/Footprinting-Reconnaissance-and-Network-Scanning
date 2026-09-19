@@ -221,10 +221,10 @@ Zenmap provided information about the hosts that responded to the scan.
 The Zenmap scan identified 4 live hosts within my local subnet.
 
 No.	IP Address   MAC Address	       Status
-1	172.20.10.1	  B2:8C:75:89:C1:64	      Up
-2	172.20.10.7	  1A:50:75:F2:76:3D	      Up
-3	172.20.10.11	  9C:2F:9D:A0:2E:2F	     Up
-4 172.20.10.10                          up
+1	 172.20.10.1	  B2:8C:75:89:C1:64	      Up
+2. 172.20.10.7	  1A:50:75:F2:76:3D	      Up
+3. 172.20.10.11	  9C:2F:9D:A0:2E:2F	     Up
+4  172.20.10.10                          up
 
 ## Total Number of Live Hosts
 
