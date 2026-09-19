@@ -286,6 +286,12 @@ The Zenmap practical also helped me understand how network scanning can be used 
 
 Most importantly, I gained practical experience using tools that I had previously only learned about theoretically.
 
+
+
+## Project Report
+![View Project Report](zenmap-network-scanning-report.pdf)
+
+
 ## Ethical Consideration
 
 The techniques and tools used in this practical should only be used on systems and networks where I have permission to perform testing.
