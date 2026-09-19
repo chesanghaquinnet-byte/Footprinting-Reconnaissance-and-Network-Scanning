@@ -236,5 +236,18 @@ The total number of live hosts discovered during the Zenmap scan was 3.
 ![Zenmap Result](8-zenmap-networkwalks.png)
 
 
+## Network Topology
+
+After completing the scan, I used Zenmap’s topology feature to visualize the discovered hosts and their relationship within the network.
+
+The topology output was saved in PDF format as required by the practical.
+
+## Topology Evidence
+
+### Zenmap Topology Result
+![Zenmap Topology Result](nmap-zenmap-topology.pdf)
+
+
+
 
 
