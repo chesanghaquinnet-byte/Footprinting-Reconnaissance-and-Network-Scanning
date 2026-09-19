@@ -164,4 +164,39 @@ The results were saved and documented as part of my reconnaissance process for f
 
 
 
+## Part 2 — Network Scanning with Zenmap
+
+After completing the footprinting and reconnaissance activities, I moved on to network scanning.
+
+For this section, I used Zenmap, the graphical user interface for Nmap.
+
+The purpose of this practical was to identify live hosts on my local network and collect information about them.
+
+## Tools Used
+
+* Windows Command Prompt
+* Zenmap
+* Nmap
+
+## 1. Finding My Local IP Address and Subnet
+
+Before performing the scan, I used Windows Command Prompt to identify my local network information.
+
+command used:
+```cmd
+ipconfig
+```
+
+## The information I obtained was:
+
+Information       Result
+
+IPv4 Address    172.20.10.10
+
+Subnet Mask     255.255.255.240
+
+Default Gateway  172.20.10.1
+
+Network/Subnet   172.20.10.0/28
+
 
