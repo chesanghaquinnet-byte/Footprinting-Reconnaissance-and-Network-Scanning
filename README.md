@@ -1,7 +1,7 @@
 # Footprinting-Reconnaissance-and-Network-Scanning
 A hands-on cybersecurity lab documenting footprinting, reconnaissance, information gathering, and local network scanning using Kali Linux, Nmap/Zenmap, and other reconnaissance tools week2 project with Networkwalks
 
-##Overview
+## Overview
 
 This repository documents my hands-on cybersecurity practical on footprinting, reconnaissance, information gathering, and network scanning.
 
@@ -10,7 +10,7 @@ The practical started with gathering information about a Networkwalks.com using 
 This project helped me understand how reconnaissance and scanning are used during the early stages of a cybersecurity assessment.
 
 
-##Objectives
+## Objectives
 
 The main objectives of this practical were to:
 
@@ -38,7 +38,7 @@ The purpose is to collect useful information about a target before moving to oth
 During this practical, I used several tools to gather different types of information.
 
 
-**Tools Used**
+## Tools Used
 
 ## 1. WHOIS
 
@@ -50,7 +50,7 @@ Command used:
 whois networkwalks.com
 ```
 
-**What I found**
+## What I found
 From the WHOIS results, I was able to gather information such as:
 
 * Domain name
@@ -60,7 +60,7 @@ From the WHOIS results, I was able to gather information such as:
 * Name servers
 * Other publicly available registration details.
 
-**Evidence**  
+## Evidence  
 
 ###WHOIS Result
 ![WHOIS Result](1-whois-networkwalks.png)
@@ -78,7 +78,7 @@ command used:
 whatweb networkwalks.com
 ```
 
-**Evidence**
+## Evidence
 
 ###Whatweb Result
 ![Whatweb Result](2-whatweb-networkwalks.png)
@@ -92,12 +92,12 @@ command used:
 nslookup networkwalks.com
 ```
 
-**What I found**
+## What I found
 The command returned DNS information for networkwalks.com, including the domain’s IP address and the DNS server that provided the response.
 
 This information is useful during reconnaissance because it helps identify the IP address associated with a domain and understand how the domain is resolved on the internet.
 
-**Evidence**
+## Evidence
 
 ###Nslookup Result
 ![Nslookup Result](3-nslookup-networkwalks.png)
@@ -109,13 +109,13 @@ command used:
 ```bash
 curl -I https://networkwalks.com
 ```
-**What I Found**
+## What I Found
 
 The command returned the HTTP response headers from the website. The response showed the HTTP status code and other information about how the web server responded to the request.
 
 This information is useful during reconnaissance because HTTP headers can reveal details about the website’s server, security configurations, content type, and how the website handles web requests.
 
-**Evidence**
+## Evidence
 ### Curl Result
 ![Curl Result](4-curl-I-networkwalks.png)
 
@@ -129,7 +129,7 @@ command used:
 wafw00f networkwalks.com
 ```
 
-**What I Found**
+## What I Found
 
 The WAFW00F scan checked networkwalks.com for the presence of a Web Application Firewall. The result showed whether a WAF was detected and, if identified, the type of WAF protecting the website.
 
